@@ -1,0 +1,13 @@
+C:\Users\HP\source\repos\S7_NET\bin\Release\S7_NET.exe.config
+C:\Users\HP\source\repos\S7_NET\bin\Release\S7_NET.exe
+C:\Users\HP\source\repos\S7_NET\bin\Release\S7_NET.pdb
+C:\Users\HP\source\repos\S7_NET\bin\Release\S7.Net.dll
+C:\Users\HP\source\repos\S7_NET\bin\Release\S7.Net.xml
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.csproj.AssemblyReference.cache
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.Form1.resources
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.Properties.Resources.resources
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.csproj.GenerateResource.cache
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.csproj.CoreCompileInputs.cache
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.csproj.CopyComplete
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.exe
+C:\Users\HP\source\repos\S7_NET\obj\Release\S7_NET.pdb
